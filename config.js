@@ -8,13 +8,13 @@ import axios from 'axios'
 
 global.Aleko= [
   ['254757100811', 'Aleko', true],
-  ['254757100811', 'Aleko', true], 
+  ['919398758484', 'Aleko', true], 
   [''] 
-] //Number of owners
+] //Number of owners254757100811
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['254757100811',''] 
+global.mods = ['917605902011',''] 
 global.prems = ['917605902011', '32460248586', '919398758484']
 global.allowed = ['917605902011', '32460248586', '19152999993']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
